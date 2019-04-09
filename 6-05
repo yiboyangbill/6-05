@@ -29,3 +29,4 @@
 			end
 		end
 	end
+image:addEventListener( "touch", calculateButtonTouch )
